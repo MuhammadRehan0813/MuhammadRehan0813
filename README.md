@@ -35,24 +35,31 @@
 
 ## 📂 Projects
 
-- 🎨 **Creative Portfolio**  
+-  **Creative Portfolio**  
   A personal showcase of social media posts, posters, and flyers designed using Illustrator and Canva.
 
-- 💻 **CPU Scheduling Simulator**  
+-  **CPU Scheduling Simulator**  
   A GUI-based Java program simulating CPU scheduling algorithms like SRTF with proper idle handling.
 
-- 📱 **Social Media Branding Kit**  
+-  **Social Media Branding Kit**  
   A bundle of pre-designed social media templates for client Instagram campaigns.
 
-- 🛒 **E-Commerce UI Concept**  
+- **E-Commerce UI Concept**  
   Designed a front-end layout and visual theme for an online clothing store website.
+
+- **CamHawk**
+  IP Camera Vulnerability Detection & Security Auditing Tool
+
+
+  
 
 ---
 
 ## 📜 Certifications
-
-- 🧩 **Graphic Designing** – Z'vis Pexlon Studio (2021)  
-- ⛑️ **First Aid & Emergency Care** – National Medical Agency (2020)
+-  **Cybersecurity intern** - Secured X wave LLP (2025)
+-  **Web development** - TEchnik Nest Pvt Ltd (2025) 
+-  **Graphic Designing** – Z'vis Pexlon Studio (2021)  
+-  **First Aid & Emergency Care** – National Medical Agency (2020)
 
 ---
 
